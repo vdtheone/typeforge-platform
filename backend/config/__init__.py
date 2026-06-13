@@ -1,0 +1,1 @@
+# TypeForge Platform Configuration

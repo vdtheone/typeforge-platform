@@ -1,0 +1,42 @@
+# =============================================================================
+# TypeForge Platform — Base Dependencies
+# =============================================================================
+
+# Django Core
+Django>=5.2,<5.3
+djangorestframework>=3.15,<3.16
+
+# Authentication
+djangorestframework-simplejwt>=5.3,<6.0
+dj-rest-auth[with-social]>=6.0,<7.0
+django-allauth>=64.0,<65.0
+
+# Database
+psycopg[binary]>=3.2,<4.0
+
+# Cache & Redis
+django-redis>=5.4,<6.0
+redis>=5.0,<6.0
+
+# CORS
+django-cors-headers>=4.4,<5.0
+
+# Filtering
+django-filter>=24.3,<25.0
+
+# API Documentation
+drf-spectacular>=0.27,<0.28
+
+# Background Tasks
+celery>=5.4,<6.0
+
+# Configuration
+python-decouple>=3.8,<4.0
+
+# Image Processing
+Pillow>=10.4,<11.0
+
+# Utilities
+python-dateutil>=2.9,<3.0
+requests>=2.32,<3.0
+cryptography>=42.0
