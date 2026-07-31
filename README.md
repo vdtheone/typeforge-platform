@@ -70,3 +70,33 @@ docker-compose up -d
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+---
+
+## 📌 Repository Info
+
+| Field | Details |
+|---|---|
+| **GitHub** | [vdtheone/typeforge-platform](https://github.com/vdtheone/typeforge-platform) |
+| **Local Path** | `/home/neosoft/vishal/Django/typeforge-platform` |
+| **Main Branch** | `main` |
+| **Tech Stack** | Django, DRF |
+| **Migrated** | 2026-07-31 — moved from VishalNeosoft24 → vdtheone |
+
+### 🔄 Git Remote
+```bash
+git remote set-url origin git@github.com:vdtheone/typeforge-platform.git
+```
+
+### 📋 Quick Commands
+```bash
+# Check status
+git status
+
+# Push changes
+git push origin main
+
+# Pull latest
+git pull origin main
+```
+
